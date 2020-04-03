@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.d211ace2.chunk.css",
+    "main.js": "/reactportfolio/static/js/main.bc45dcdd.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.bc45dcdd.chunk.js.map",
+    "runtime-main.js": "/reactportfolio/static/js/runtime-main.0c1598a4.js",
+    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.0c1598a4.js.map",
+    "static/js/2.b597d8f6.chunk.js": "/reactportfolio/static/js/2.b597d8f6.chunk.js",
+    "static/js/2.b597d8f6.chunk.js.map": "/reactportfolio/static/js/2.b597d8f6.chunk.js.map",
+    "index.html": "/reactportfolio/index.html",
+    "precache-manifest.eb6998595670ff59a05c59e3361ea424.js": "/reactportfolio/precache-manifest.eb6998595670ff59a05c59e3361ea424.js",
+    "service-worker.js": "/reactportfolio/service-worker.js",
+    "static/css/main.d211ace2.chunk.css.map": "/reactportfolio/static/css/main.d211ace2.chunk.css.map",
+    "static/js/2.b597d8f6.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.b597d8f6.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/reactportfolio/static/media/header-bg.e2d2a51c.jpg",
+    "static/media/devitanswer.JPG": "/reactportfolio/static/media/devitanswer.0e9d51cc.JPG",
+    "static/media/devitchat.JPG": "/reactportfolio/static/media/devitchat.1dda915c.JPG",
+    "static/media/devithome.JPG": "/reactportfolio/static/media/devithome.c98d0384.JPG",
+    "static/media/devithomepage2.png": "/reactportfolio/static/media/devithomepage2.2a4c8085.png",
+    "static/media/deviticons.png": "/reactportfolio/static/media/deviticons.29cd7474.png",
+    "static/media/devitlogin.JPG": "/reactportfolio/static/media/devitlogin.dba8073f.JPG",
+    "static/media/devitquestion.JPG": "/reactportfolio/static/media/devitquestion.df2b1702.JPG",
+    "static/media/devitsignup.JPG": "/reactportfolio/static/media/devitsignup.d07b9223.JPG",
+    "static/media/password2.jpg": "/reactportfolio/static/media/password2.21cdd957.jpg",
+    "static/media/passwordgen.JPG": "/reactportfolio/static/media/passwordgen.c4b0ccc0.JPG",
+    "static/media/passwordhome.JPG": "/reactportfolio/static/media/passwordhome.84fc1f25.JPG",
+    "static/media/quiz2.jpg": "/reactportfolio/static/media/quiz2.5ae1675d.jpg",
+    "static/media/quizhs.JPG": "/reactportfolio/static/media/quizhs.2598dd7f.JPG",
+    "static/media/quizquestion.JPG": "/reactportfolio/static/media/quizquestion.33b53065.JPG",
+    "static/media/quizstart.JPG": "/reactportfolio/static/media/quizstart.0026e846.JPG",
+    "static/media/whereto2.jpg": "/reactportfolio/static/media/whereto2.dae9c0ba.jpg",
+    "static/media/wheretohome.JPG": "/reactportfolio/static/media/wheretohome.ae95bcc4.JPG",
+    "static/media/wheretoicons.png": "/reactportfolio/static/media/wheretoicons.1f6fce00.png",
+    "static/media/wheretotoronto.JPG": "/reactportfolio/static/media/wheretotoronto.0e9f1fbb.JPG",
+    "static/media/wheretotoronto2.JPG": "/reactportfolio/static/media/wheretotoronto2.9cddcaf9.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c1598a4.js",
+    "static/js/2.b597d8f6.chunk.js",
+    "static/css/main.d211ace2.chunk.css",
+    "static/js/main.bc45dcdd.chunk.js"
+  ]
+}
